@@ -1,4 +1,4 @@
-package com.samoilenko.crudApp;
+package com.samoilenko.crudApp.config;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.ApplicationContext;
