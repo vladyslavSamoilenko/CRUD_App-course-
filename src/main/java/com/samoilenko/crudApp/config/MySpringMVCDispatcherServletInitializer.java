@@ -1,4 +1,4 @@
-package com.samoilenko.crudApp;
+package com.samoilenko.crudApp.config;
 
 import org.springframework.web.servlet.support.AbstractAnnotationConfigDispatcherServletInitializer;
 
@@ -6,7 +6,7 @@ public class MySpringMVCDispatcherServletInitializer extends AbstractAnnotationC
 
     @Override
     protected Class<?>[] getRootConfigClasses() {
-        return new Class[0];
+        return null;
     }
 
     @Override
